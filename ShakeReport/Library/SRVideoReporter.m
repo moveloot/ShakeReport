@@ -8,7 +8,6 @@
 
 #import "SRVideoReporter.h"
 #import "SRMethodSwizzler.h"
-#import "CaptureRecord.h"
 #import "SRUtils.h"
 #import "SRHTTPClient.h"
 #import "UIWindow+SRReporter.h"
