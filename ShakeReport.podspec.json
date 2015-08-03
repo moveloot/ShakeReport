@@ -1,6 +1,6 @@
 {
   "name": "ShakeReport",
-  "version": "0.2",
+  "version": "0.2.1",
   "license": "MIT",
   "summary": "An open source bug report, easy to use! Shake to report anything.",
   "homepage": "https://github.com/jayztemplier/ShakeReport.git",
@@ -9,7 +9,7 @@
   },
   "source": {
     "git": "https://github.com/jayztemplier/ShakeReport.git",
-    "tag": "0.2"
+    "tag": "0.2.1"
   },
   "source_files": "ShakeReport/Library/*.{h,m}",
   "requires_arc": true,
